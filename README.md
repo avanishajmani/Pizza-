@@ -1,5 +1,5 @@
 # My recipe
-It is a recipe of pizza 
+Pizza Recipe
 
 
 the Ingredients used to make pizza:
@@ -46,7 +46,7 @@ Step 13:  Lastly layer cheese. Then veggies of your choice.
 
 Step 14:  Bake it for 8 to 10 minutes or until the cheese turns golden.
 
-Step 15: Slice and serve
+Step 15: Slice and serve enjoy!
 
 
 
